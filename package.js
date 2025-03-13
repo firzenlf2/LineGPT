@@ -1,0 +1,17 @@
+{
+  "name": "linegpt",
+  "version": "1.0.0",
+  "description": "A LINE bot integrated with OpenAI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@line/bot-sdk": "^7.5.2",
+    "openai": "^4.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
