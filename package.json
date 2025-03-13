@@ -1,5 +1,5 @@
 {
-  "name": "linegpt",
+  "name": "Linegpt",
   "version": "1.0.0",
   "description": "A LINE bot integrated with OpenAI",
   "main": "server.js",
